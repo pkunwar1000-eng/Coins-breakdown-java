@@ -34,8 +34,8 @@ Option 1: Compile
    ```bash
    javac ChangeM.java ChangeMClient.jav
 Option B: Using NetBeans
-Download and install NetBeans
-Create a new Java project.
-Copy both files (ChangeM.java and ChangeMClient.java) into the src folder of the project.
-Open ChangeMClient.java and click Run in NetBeans.
-Follow the on-screen instructions to enter your amount and see the coin breakdown.
+1. Download and install NetBeans
+2. Create a new Java project.
+3. Copy both files (ChangeM.java and ChangeMClient.java) into the src folder of the project.
+4. Open ChangeMClient.java and click Run in NetBeans.
+5. Follow the on-screen instructions to enter your amount and see the coin breakdown.
