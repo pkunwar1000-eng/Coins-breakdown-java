@@ -21,13 +21,13 @@ The program demonstrates:
 
 ## 🛠️ Technologies Used
 - **Language:** Java  
-- **IDE:** Apache Netbeans / VS code
-- **Platform:** Console-based application
+- **IDE:** Apache Netbeans / VS Code
+- **Platform:** Runs in the terminal / command prompt or via an IDE (NetBeans, VS Code)
 
 ---
 
 ## ▶️ How to Run
-Option 1: Compile
+Option A: Compile
 1. Download both files (`ChangeM.java` and `ChangeMClient.java`) into the same folder.  
 2. Open a terminal or command prompt in that folder.  
 3. Compile both files:
