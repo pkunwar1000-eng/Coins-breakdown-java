@@ -21,7 +21,7 @@ The program demonstrates:
 
 ## 🛠️ Technologies Used
 - **Language:** Java  
-- **IDE:** IntelliJ IDEA / Eclipse / VS Code  
+- **IDE:** Apache Netbeans / VS code
 - **Platform:** Console-based application
 
 ---
