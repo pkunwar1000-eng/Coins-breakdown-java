@@ -27,8 +27,15 @@ The program demonstrates:
 ---
 
 ## ▶️ How to Run
+Option 1: Compile
 1. Download both files (`ChangeM.java` and `ChangeMClient.java`) into the same folder.  
 2. Open a terminal or command prompt in that folder.  
 3. Compile both files:
    ```bash
-   javac ChangeM.java ChangeMClient.java
+   javac ChangeM.java ChangeMClient.jav
+Option B: Using NetBeans
+Download and install NetBeans
+Create a new Java project.
+Copy both files (ChangeM.java and ChangeMClient.java) into the src folder of the project.
+Open ChangeMClient.java and click Run in NetBeans.
+Follow the on-screen instructions to enter your amount and see the coin breakdown.
